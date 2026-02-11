@@ -1,1 +1,3 @@
-1. niharika added this 09/02/2026 first line 
+1. niharika added this 10/02/2026 first line 
+
+2. In Cancer-Help-4-ui project I bind testCategory and collectionSlot API 
